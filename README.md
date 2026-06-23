@@ -37,11 +37,24 @@ Prodigy Tech Hub delivers innovative technology solutions that solve real busine
 
 ---
 
-## 💼 Featured Product
+## 💼 Featured Solutions
 
 ### Prodigy HR & Payroll SaaS
+Enterprise HR and Payroll Management Platform designed for organizations and educational institutions.
 
-A modern, scalable, multi-tenant workforce management platform built to simplify human resource administration and payroll operations for schools, SMEs, NGOs, and enterprise organizations.
+Features:
+- Employee Lifecycle Management
+- Payroll Automation
+- Attendance & Leave Management
+- Performance Tracking
+- Compliance Reporting
+- Multi-Tenant Architecture
+
+### School Management Solution
+Digital platform for student management, fee processing, attendance, reporting, and academic administration.
+
+### Data Analytics & Business Intelligence
+Interactive dashboards and reporting systems that support executive decision-making and operational visibility.
 
 ### Key Features
 
@@ -93,6 +106,15 @@ We provide practical, industry-relevant training programs for individuals, teams
 - Technology Adoption & Digital Transformation
 
 ---
+
+## 🌍 Industries We Serve
+
+- Educational Institutions
+- Healthcare Organizations
+- SMEs & Growing Businesses
+- Government Agencies
+- NGOs & Non-Profit Organizations
+- Corporate Organizations
 
 ## 🛠 Core Technologies
 
