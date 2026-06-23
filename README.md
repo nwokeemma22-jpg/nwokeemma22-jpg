@@ -7,6 +7,14 @@ I help businesses, educational institutions, healthcare organizations, and gover
 As the Founder and CEO of Prodigy Tech Hub, I lead the design, development, and deployment of innovative software solutions while delivering industry-focused technology training programs that equip individuals and organizations with the digital skills required to thrive in today's economy.
 
 ---
+## 📈 Impact & Achievements
+
+- Founder of Prodigy Tech Hub, a technology training and software solutions company.
+- Built enterprise-grade HR & Payroll SaaS platforms.
+- Trained aspiring technology professionals in Software Development, Data Analytics, Cybersecurity, UI/UX Design, and Digital Marketing.
+- Delivered digital transformation solutions for educational institutions and businesses.
+- Experienced in designing scalable multi-tenant software architectures.
+- Passionate about using technology to solve real business challenges.
 
 ## 🚀 What We Do
 
